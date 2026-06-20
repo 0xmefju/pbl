@@ -1,0 +1,726 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 691 >>
+stream
+q 0.15 0.15 0.15 RG 0.8 w 42 42 511 758 re S Q
+q 0.15 0.15 0.15 RG 1.2 w 78 672 m 517 672 l S Q
+BT 0.25 0.25 0.25 rg /F2 10 Tf 78 692 Td (DOKUMENTACJA TECHNICZNA) Tj ET
+BT 0 0 0 rg /F2 25 Tf 78 617 Td (System zarzadzania) Tj ET
+BT 0 0 0 rg /F2 25 Tf 78 584 Td (organizacja wydarzen) Tj ET
+q 0.25 0.25 0.25 RG 0.8 w 78 557 m 300 557 l S Q
+BT 0 0 0 rg /F1 12 Tf 78 520 Td (Aplikacja konsolowa w jezyku C++) Tj ET
+BT 0 0 0 rg /F1 11 Tf 78 498 Td (Plik zrodlowy: main.cpp) Tj ET
+BT 0 0 0 rg /F1 11 Tf 78 478 Td (Plik danych: wydarzenia.md) Tj ET
+BT 0.25 0.25 0.25 rg /F1 10 Tf 78 116 Td (Data wygenerowania: 2026-06-19) Tj ET
+BT 0.25 0.25 0.25 rg /F1 10 Tf 78 96 Td (Wersja dokumentu: 1.0) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 3387 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.94 0.94 0.94 rg 56 736 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 736 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 747 Td (System zarzadzania organizacja wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 710 Td (| Pole | Wartosc |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 695 Td (| --- | --- |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 680 Td (| Nazwa programu | System zarzadzania organizacja wydarzen |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 665 Td (| Typ aplikacji | Aplikacja konsolowa |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 650 Td (| Jezyk implementacji | C++ |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 635 Td (| Standard jezyka | C++17 |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 620 Td (| Glowny plik zrodlowy | main.cpp |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 605 Td (| Plik wykonywalny | event_manager.exe |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 590 Td (| Plik danych | wydarzenia.md |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 575 Td (| Wersja dokumentu | 1.0 |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 560 Td (| Data opracowania | 2026-06-19 |) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 541 Td (---) Tj ET
+q 0.94 0.94 0.94 rg 56 492 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 492 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 503 Td (Spis tresci) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 466 Td (1. Cel i zakres programu) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 453 Td (2. Wymagania systemowe) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 440 Td (3. Kompilacja programu) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 427 Td (4. Uruchomienie aplikacji) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 414 Td (5. Struktura menu glownego) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 401 Td (6. Opis funkcji programu) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 388 Td (7. Obsluga uczestnikow) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 375 Td (8. Obsluga zadan) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 362 Td (9. Obsluga budzetu) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 349 Td (10. Struktura pliku danych) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 336 Td (11. Walidacja danych i zabezpieczenia) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 323 Td (12. Mechanizm zapisu danych) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 310 Td (13. Znane ograniczenia) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 297 Td (14. Zalecenia eksploatacyjne) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 284 Td (15. Proponowane kierunki rozwoju) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 271 Td (16. Najczestsze problemy) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 258 Td (17. Podsumowanie techniczne) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 241 Td (---) Tj ET
+q 0.94 0.94 0.94 rg 56 192 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 192 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 203 Td (1. Cel i zakres programu) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 166 Td (Program jest konsolowym systemem przeznaczonym do zarzadzania organizacja wydarzen. Umozliwia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 153 Td (tworzenie i utrzymywanie listy wydarzen, edycje danych, obsluge uczestnikow, kontrole zadan) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 140 Td (organizacyjnych, prowadzenie budzetu oraz generowanie raportow.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 121 Td (Aplikacja zostala zaimplementowana w jezyku C++ jako jeden plik zrodlowy:) Tj ET
+q 0.97 0.97 0.97 rg 66 93 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 93 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 97 Td (main.cpp) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 2) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 3668 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 770 Td (Po skompilowaniu program uruchamiany jest jako plik wykonywalny, na przyklad:) Tj ET
+q 0.97 0.97 0.97 rg 66 742 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 742 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 746 Td (event_manager.exe) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 724 Td (Dane programu sa zapisywane automatycznie do pliku:) Tj ET
+q 0.97 0.97 0.97 rg 66 696 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 696 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 700 Td (wydarzenia.md) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 678 Td (Plik wydarzenia.md jest tworzony w tej samej lokalizacji co uruchomiony program.) Tj ET
+q 0.94 0.94 0.94 rg 56 629 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 629 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 640 Td (2. Wymagania systemowe) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 603 Td (Do kompilacji wymagany jest kompilator C++ obslugujacy standard C++17.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 584 Td (Zalecany kompilator dla systemu Windows:) Tj ET
+q 0.97 0.97 0.97 rg 66 556 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 556 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 560 Td (g++) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 538 Td (Program nie wymaga dodatkowych bibliotek zewnetrznych.) Tj ET
+q 0.94 0.94 0.94 rg 56 489 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 489 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 500 Td (3. Kompilacja programu) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 463 Td (W folderze projektu nalezy uruchomic polecenie:) Tj ET
+q 0.97 0.97 0.97 rg 66 435 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 435 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 439 Td (g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o event_manager.exe) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 417 Td (Po poprawnej kompilacji zostanie utworzony plik:) Tj ET
+q 0.97 0.97 0.97 rg 66 389 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 389 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 393 Td (event_manager.exe) Tj ET
+q 0.94 0.94 0.94 rg 56 341 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 341 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 352 Td (4. Uruchomienie aplikacji) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 315 Td (Program uruchamia sie poleceniem:) Tj ET
+q 0.97 0.97 0.97 rg 66 287 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 287 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 291 Td (.\\event_manager.exe) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 269 Td (Przy pierwszym uruchomieniu aplikacja tworzy plik:) Tj ET
+q 0.97 0.97 0.97 rg 66 241 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 241 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 245 Td (wydarzenia.md) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 223 Td (Jezeli obok programu istnieje wczesniejszy plik events.db, a plik wydarzenia.md jeszcze nie istnieje,) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 210 Td (program podejmie jednorazowa probe wczytania danych ze starego pliku i zapisania ich w formacie) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 197 Td (Markdown.) Tj ET
+q 0.94 0.94 0.94 rg 56 148 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 148 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 159 Td (5. Struktura menu glownego) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 122 Td (Po uruchomieniu aplikacji uzytkownik otrzymuje dostep do menu glownego:) Tj ET
+q 0.97 0.97 0.97 rg 66 94 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 94 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 98 Td (1   Podsumowanie organizacji) Tj ET
+q 0.97 0.97 0.97 rg 66 81 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 81 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 85 Td (2   Lista wydarzen) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 3) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 3799 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 766 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 766 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 770 Td (3   Dodaj wydarzenie) Tj ET
+q 0.97 0.97 0.97 rg 66 753 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 753 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 757 Td (4   Edytuj wydarzenie) Tj ET
+q 0.97 0.97 0.97 rg 66 740 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 740 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 744 Td (5   Usun wydarzenie) Tj ET
+q 0.97 0.97 0.97 rg 66 727 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 727 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 731 Td (6   Szukaj wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 714 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 714 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 718 Td (7   Filtruj po statusie) Tj ET
+q 0.97 0.97 0.97 rg 66 701 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 701 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 705 Td (8   Panel wydarzenia) Tj ET
+q 0.97 0.97 0.97 rg 66 688 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 688 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 692 Td (9   Raport wydarzenia) Tj ET
+q 0.97 0.97 0.97 rg 66 675 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 675 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 679 Td (10  Reset listy wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 662 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 662 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 666 Td (0   Zapisz i wyjdz) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 644 Td (Wybor opcji odbywa sie przez wpisanie numeru i zatwierdzenie klawiszem Enter.) Tj ET
+q 0.94 0.94 0.94 rg 56 595 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 595 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 606 Td (6. Opis funkcji programu) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 569 Td (6.1. Podsumowanie organizacji) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 545 Td (Opcja 1 prezentuje ogolne statystyki:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 526 Td (- liczbe wszystkich wydarzen,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 513 Td (- liczbe wszystkich uczestnikow,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 500 Td (- globalny bilans budzetu,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 487 Td (- liczbe wydarzen wedlug statusu.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 470 Td (Statusy wydarzen:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 451 Td (- Planowane,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 438 Td (- W trakcie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 425 Td (- Zakonczone,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 412 Td (- Anulowane.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 395 Td (6.2. Lista wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 371 Td (Opcja 2 wyswietla wszystkie zapisane wydarzenia w formie tabeli.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 352 Td (Tabela zawiera:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 333 Td (- ID wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 320 Td (- nazwe,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 307 Td (- date,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 294 Td (- miejsce,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 281 Td (- status.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 264 Td (6.3. Dodawanie wydarzenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 240 Td (Opcja 3 umozliwia dodanie nowego wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 221 Td (Wymagane pola:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 202 Td (- nazwa,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 189 Td (- data,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 176 Td (- miejsce,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 163 Td (- status.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 146 Td (Pole opcjonalne:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 127 Td (- opis.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 110 Td (Data musi zostac wpisana w formacie:) Tj ET
+q 0.97 0.97 0.97 rg 66 82 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 82 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 86 Td (RRRR-MM-DD) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 4) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 3961 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 770 Td (Przyklady poprawnych dat:) Tj ET
+q 0.97 0.97 0.97 rg 66 742 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 742 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 746 Td (2026-08-03) Tj ET
+q 0.97 0.97 0.97 rg 66 729 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 729 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 733 Td (2028-02-29) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 711 Td (Przyklady odrzucanych wartosci:) Tj ET
+q 0.97 0.97 0.97 rg 66 683 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 683 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 687 Td (abc) Tj ET
+q 0.97 0.97 0.97 rg 66 670 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 670 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 674 Td (23) Tj ET
+q 0.97 0.97 0.97 rg 66 657 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 657 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 661 Td (2026-02-30) Tj ET
+q 0.97 0.97 0.97 rg 66 644 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 644 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 648 Td (2026-99-99) Tj ET
+q 0.97 0.97 0.97 rg 66 631 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 631 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 635 Td (2026-8-3) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 613 Td (6.4. Edycja wydarzenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 589 Td (Opcja 4 pozwala zmienic dane istniejacego wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 570 Td (Najpierw nalezy wybrac ID wydarzenia. Podczas edycji mozna pozostawic pole puste, aby zachowac obecna) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 557 Td (wartosc.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 538 Td (Przy edycji daty rowniez obowiazuje format:) Tj ET
+q 0.97 0.97 0.97 rg 66 510 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 510 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 514 Td (RRRR-MM-DD) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 492 Td (6.5. Usuwanie wydarzenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 468 Td (Opcja 5 usuwa wybrane wydarzenie.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 449 Td (Program wymaga potwierdzenia przed usunieciem:) Tj ET
+q 0.97 0.97 0.97 rg 66 421 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 421 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 425 Td (Usunac wydarzenie "nazwa"? \(t/n\)) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 403 Td (Dzieki temu przypadkowe usuniecie jest ograniczone.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 384 Td (6.6. Wyszukiwanie wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 360 Td (Opcja 6 wyszukuje wydarzenia po:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 341 Td (- nazwie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 328 Td (- miejscu,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 315 Td (- opisie.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 298 Td (Pole wyszukiwania nie moze byc puste.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 279 Td (6.7. Filtrowanie po statusie) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 255 Td (Opcja 7 wyswietla tylko wydarzenia o wybranym statusie.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 236 Td (Dostepne statusy:) Tj ET
+q 0.97 0.97 0.97 rg 66 208 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 208 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 212 Td (1  Planowane) Tj ET
+q 0.97 0.97 0.97 rg 66 195 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 195 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 199 Td (2  W trakcie) Tj ET
+q 0.97 0.97 0.97 rg 66 182 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 182 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 186 Td (3  Zakonczone) Tj ET
+q 0.97 0.97 0.97 rg 66 169 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 169 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 173 Td (4  Anulowane) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 151 Td (6.8. Panel wydarzenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 127 Td (Opcja 8 otwiera panel konkretnego wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 108 Td (W panelu wydarzenia dostepne sa:) Tj ET
+q 0.97 0.97 0.97 rg 66 80 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 80 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 84 Td (1  Uczestnicy) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 5) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 3761 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 766 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 766 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 770 Td (2  Zadania) Tj ET
+q 0.97 0.97 0.97 rg 66 753 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 753 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 757 Td (3  Budzet) Tj ET
+q 0.97 0.97 0.97 rg 66 740 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 740 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 744 Td (0  Powrot) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 722 Td (6.9. Raport wydarzenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 698 Td (Opcja 9 wyswietla raport jednego wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 679 Td (Raport zawiera:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 660 Td (- nazwe,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 647 Td (- date,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 634 Td (- miejsce,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 621 Td (- status,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 608 Td (- opis,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 595 Td (- liczbe uczestnikow,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 582 Td (- liczbe oplaconych uczestnikow,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 569 Td (- liczbe zadan,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 556 Td (- liczbe zakonczonych zadan,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 543 Td (- bilans budzetu.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 526 Td (6.10. Reset listy wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 502 Td (Opcja 10 usuwa wszystkie wydarzenia z programu.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 483 Td (Program wymaga potwierdzenia:) Tj ET
+q 0.97 0.97 0.97 rg 66 455 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 455 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 459 Td (Czy na pewno chcesz zresetowac liste wydarzen? \(t/n\)) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 437 Td (Po potwierdzeniu:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 418 Td (- lista wydarzen zostaje wyczyszczona,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 405 Td (- plik wydarzenia.md zostaje nadpisany pusta lista,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 392 Td (- sam plik wydarzenia.md nie jest usuwany.) Tj ET
+q 0.94 0.94 0.94 rg 56 345 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 345 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 356 Td (7. Obsluga uczestnikow) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 319 Td (Uczestnicy sa zarzadzani z poziomu panelu wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 300 Td (Dostepne opcje:) Tj ET
+q 0.97 0.97 0.97 rg 66 272 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 272 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 276 Td (1  Lista uczestnikow) Tj ET
+q 0.97 0.97 0.97 rg 66 259 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 259 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 263 Td (2  Dodaj uczestnika) Tj ET
+q 0.97 0.97 0.97 rg 66 246 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 246 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 250 Td (3  Zmien status platnosci) Tj ET
+q 0.97 0.97 0.97 rg 66 233 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 233 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 237 Td (4  Usun uczestnika) Tj ET
+q 0.97 0.97 0.97 rg 66 220 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 220 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 224 Td (0  Powrot) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 202 Td (7.1. Dodawanie uczestnika) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 178 Td (Wymagane pola:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 159 Td (- imie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 146 Td (- nazwisko,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 133 Td (- email,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 120 Td (- status platnosci.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 103 Td (Status platnosci wybiera sie odpowiedzia:) Tj ET
+q 0.97 0.97 0.97 rg 66 75 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 75 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 79 Td (t) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 6) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 19 0 R >>
+endobj
+19 0 obj
+<< /Length 3904 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 766 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 766 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 770 Td (n) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 748 Td (Akceptowane sa rowniez odpowiedzi:) Tj ET
+q 0.97 0.97 0.97 rg 66 720 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 720 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 724 Td (tak) Tj ET
+q 0.97 0.97 0.97 rg 66 707 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 707 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 711 Td (nie) Tj ET
+q 0.97 0.97 0.97 rg 66 694 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 694 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 698 Td (y) Tj ET
+q 0.97 0.97 0.97 rg 66 681 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 681 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 685 Td (yes) Tj ET
+q 0.97 0.97 0.97 rg 66 668 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 668 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 672 Td (no) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 650 Td (7.2. Zmiana statusu platnosci) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 626 Td (Opcja zmiany statusu platnosci przelacza wartosc:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 607 Td (- z nieoplacone na oplacone,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 594 Td (- z oplacone na nieoplacone.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 577 Td (7.3. Usuwanie uczestnika) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 553 Td (Usuwanie odbywa sie po ID uczestnika.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 534 Td (Jezeli ID nie istnieje, program wyswietla komunikat bledu.) Tj ET
+q 0.94 0.94 0.94 rg 56 485 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 485 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 496 Td (8. Obsluga zadan) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 459 Td (Zadania sa zarzadzane z poziomu panelu wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 440 Td (Dostepne opcje:) Tj ET
+q 0.97 0.97 0.97 rg 66 412 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 412 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 416 Td (1  Lista zadan) Tj ET
+q 0.97 0.97 0.97 rg 66 399 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 399 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 403 Td (2  Dodaj zadanie) Tj ET
+q 0.97 0.97 0.97 rg 66 386 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 386 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 390 Td (3  Zmien status) Tj ET
+q 0.97 0.97 0.97 rg 66 373 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 373 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 377 Td (4  Usun zadanie) Tj ET
+q 0.97 0.97 0.97 rg 66 360 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 360 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 364 Td (0  Powrot) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 342 Td (8.1. Dodawanie zadania) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 318 Td (Wymagane pola:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 299 Td (- tytul,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 286 Td (- osoba odpowiedzialna,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 273 Td (- termin,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 260 Td (- status.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 243 Td (Status zadania:) Tj ET
+q 0.97 0.97 0.97 rg 66 215 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 215 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 219 Td (1  Do zrobienia) Tj ET
+q 0.97 0.97 0.97 rg 66 202 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 202 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 206 Td (2  W trakcie) Tj ET
+q 0.97 0.97 0.97 rg 66 189 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 189 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 193 Td (3  Gotowe) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 171 Td (8.2. Zmiana statusu zadania) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 147 Td (Status zadania mozna zmienic po podaniu ID zadania.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 128 Td (8.3. Usuwanie zadania) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 104 Td (Usuwanie odbywa sie po ID zadania.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 85 Td (Jezeli ID nie istnieje, program wyswietla komunikat bledu.) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 7) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 21 0 R >>
+endobj
+21 0 obj
+<< /Length 3950 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.94 0.94 0.94 rg 56 740 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 740 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 751 Td (9. Obsluga budzetu) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 714 Td (Budzet jest zarzadzany z poziomu panelu wydarzenia.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 695 Td (Dostepne opcje:) Tj ET
+q 0.97 0.97 0.97 rg 66 667 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 667 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 671 Td (1  Lista pozycji) Tj ET
+q 0.97 0.97 0.97 rg 66 654 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 654 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 658 Td (2  Dodaj pozycje) Tj ET
+q 0.97 0.97 0.97 rg 66 641 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 641 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 645 Td (3  Usun pozycje) Tj ET
+q 0.97 0.97 0.97 rg 66 628 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 628 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 632 Td (0  Powrot) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 610 Td (9.1. Dodawanie pozycji budzetowej) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 586 Td (Wymagane pola:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 567 Td (- nazwa pozycji,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 554 Td (- kwota,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 541 Td (- typ pozycji.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 524 Td (Kwota musi byc wieksza od zera.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 505 Td (Typ pozycji:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 486 Td (- przychod,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 473 Td (- koszt.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 456 Td (Program oblicza bilans wedlug zasady:) Tj ET
+q 0.97 0.97 0.97 rg 66 428 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 428 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 432 Td (bilans = suma przychodow - suma kosztow) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 410 Td (9.2. Usuwanie pozycji budzetowej) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 386 Td (Usuwanie odbywa sie po ID pozycji budzetowej.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 367 Td (Jezeli ID nie istnieje, program wyswietla komunikat bledu.) Tj ET
+q 0.94 0.94 0.94 rg 56 318 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 318 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 329 Td (10. Struktura pliku danych wydarzenia.md) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 292 Td (Program zapisuje dane w pliku Markdown:) Tj ET
+q 0.97 0.97 0.97 rg 66 264 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 264 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 268 Td (wydarzenia.md) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 246 Td (Plik sklada sie z dwoch czesci:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 227 Td (1. Czytelnego raportu Markdown.) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 214 Td (2. Technicznego bloku danych.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 197 Td (Przyklad:) Tj ET
+q 0.97 0.97 0.97 rg 66 169 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 169 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 173 Td (# Wydarzenia) Tj ET
+q 0.97 0.97 0.97 rg 66 156 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 156 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 160 Td () Tj ET
+q 0.97 0.97 0.97 rg 66 143 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 143 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 147 Td (## Konferencja IT) Tj ET
+q 0.97 0.97 0.97 rg 66 130 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 130 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 134 Td () Tj ET
+q 0.97 0.97 0.97 rg 66 117 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 117 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 121 Td (- ID: 1) Tj ET
+q 0.97 0.97 0.97 rg 66 104 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 104 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 108 Td (- Data: 2026-08-03) Tj ET
+q 0.97 0.97 0.97 rg 66 91 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 91 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 95 Td (- Miejsce: Warszawa) Tj ET
+q 0.97 0.97 0.97 rg 66 78 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 78 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 82 Td (- Status: Planowane) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 8) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 23 0 R >>
+endobj
+23 0 obj
+<< /Length 3713 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+q 0.97 0.97 0.97 rg 66 766 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 766 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 770 Td () Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 752 Td (EVENT|1|Konferencja IT|2026-08-03|Warszawa|Opis|1) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 723 Td (Blok:) Tj ET
+q 0.97 0.97 0.97 rg 66 695 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 695 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 699 Td (event-manager-data) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 677 Td (jest wymagany do ponownego wczytania danych przez program.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 658 Td (Nie nalezy usuwac ani recznie modyfikowac tego bloku, jezeli dane maja byc dalej poprawnie) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 645 Td (odczytywane.) Tj ET
+q 0.94 0.94 0.94 rg 56 596 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 596 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 607 Td (11. Walidacja danych i zabezpieczenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 570 Td (Program blokuje lub ogranicza nastepujace sytuacje:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 551 Td (- wybor opcji spoza zakresu menu,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 538 Td (- puste wymagane pola przy dodawaniu wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 525 Td (- puste wymagane pola przy dodawaniu uczestnika,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 512 Td (- puste wymagane pola przy dodawaniu zadania,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 499 Td (- puste wymagane pole przy dodawaniu pozycji budzetowej,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 486 Td (- puste pole wyszukiwania,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 473 Td (- date w niepoprawnym formacie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 460 Td (- nieistniejace daty, na przyklad 2026-02-30,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 447 Td (- kwoty budzetowe mniejsze lub rowne zero,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 434 Td (- usuniecie wydarzenia bez potwierdzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 421 Td (- reset listy wydarzen bez potwierdzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 408 Td (- usuniecie uczestnika, zadania lub pozycji budzetowej o nieistniejacym ID.) Tj ET
+q 0.94 0.94 0.94 rg 56 361 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 361 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 372 Td (12. Mechanizm zapisu danych) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 335 Td (Dane sa zapisywane:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 316 Td (- po wykonaniu operacji w menu glownym,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 303 Td (- przy wyjsciu z programu opcja 0,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 290 Td (- po resecie listy wydarzen.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 273 Td (Oznacza to, ze wiekszosc zmian jest zapisywana automatycznie.) Tj ET
+q 0.94 0.94 0.94 rg 56 224 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 224 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 235 Td (13. Znane ograniczenia) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 198 Td (Program jest aplikacja konsolowa, a nie okienkowa.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 179 Td (Aktualne ograniczenia:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 160 Td (- brak logowania uzytkownikow,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 147 Td (- brak uprawnien administratora i uzytkownika,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 134 Td (- brak eksportu do PDF,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 121 Td (- brak sortowania wydarzen po dacie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 108 Td (- brak sprawdzania poprawnosci adresu email,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 95 Td (- termin zadania jest zwyklym tekstem i nie ma jeszcze walidacji daty,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 82 Td (- reczna edycja bloku event-manager-data moze uszkodzic odczyt danych,) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 9) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 25 0 R >>
+endobj
+25 0 obj
+<< /Length 3499 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 770 Td (- reset usuwa wszystkie wydarzenia po potwierdzeniu i nie ma mechanizmu kosza.) Tj ET
+q 0.94 0.94 0.94 rg 56 723 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 723 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 734 Td (14. Zalecenia eksploatacyjne) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 697 Td (Przed resetem listy wydarzen zaleca sie wykonanie kopii pliku:) Tj ET
+q 0.97 0.97 0.97 rg 66 669 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 669 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 673 Td (wydarzenia.md) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 651 Td (Nie nalezy edytowac technicznego bloku danych, jezeli nie jest to konieczne.) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 632 Td (Jezeli plik wydarzenia.md zostanie uszkodzony, program moze pominac czesc rekordow podczas odczytu.) Tj ET
+q 0.94 0.94 0.94 rg 56 583 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 583 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 594 Td (15. Proponowane kierunki rozwoju) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 557 Td (Mozliwe kierunki rozwoju:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 538 Td (- walidacja adresu email,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 525 Td (- walidacja terminu zadania jako daty,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 512 Td (- sortowanie wydarzen po dacie,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 499 Td (- eksport raportu do osobnego pliku Markdown,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 486 Td (- tworzenie kopii zapasowej przed resetem,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 473 Td (- dodatkowe potwierdzenia przy usuwaniu uczestnikow, zadan i pozycji budzetowych,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 460 Td (- wyszukiwanie uczestnikow,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 447 Td (- archiwum wydarzen zakonczonych,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 434 Td (- statystyki budzetowe dla wszystkich wydarzen,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 421 Td (- wersja okienkowa w Qt albo wxWidgets.) Tj ET
+q 0.94 0.94 0.94 rg 56 374 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 374 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 385 Td (16. Najczestsze problemy) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 348 Td (16.1. Program nie uruchamia sie z pliku main.cpp) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 324 Td (Plik main.cpp jest kodem zrodlowym. Najpierw nalezy skompilowac go do pliku .exe.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 305 Td (16.2. Komenda g++ nie dziala) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 281 Td (Oznacza to, ze kompilator nie jest zainstalowany albo nie zostal dodany do zmiennej PATH.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 262 Td (16.3. Plik wydarzenia.md sie nie tworzy) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 238 Td (Nalezy sprawdzic, czy program ma prawo zapisu w folderze, w ktorym znajduje sie event_manager.exe.) Tj ET
+BT 0 0 0 rg /F2 11 Tf 56 219 Td (16.4. Program nie widzi recznie wpisanych danych) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 195 Td (Program odczytuje dane z bloku:) Tj ET
+q 0.97 0.97 0.97 rg 66 167 463 15 re f Q
+q 0.82 0.82 0.82 RG 0.8 w 66 167 463 15 re S Q
+BT 0 0 0 rg /F3 8 Tf 74 171 Td (event-manager-data) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 149 Td (Zwykly tekst Markdown jest raportem dla czlowieka, ale nie jest zrodlem danych dla programu.) Tj ET
+q 0.94 0.94 0.94 rg 56 100 483 32 re f Q
+q 0.20 0.20 0.20 RG 0.8 w 56 100 483 32 re S Q
+BT 0 0 0 rg /F2 13 Tf 68 111 Td (17. Podsumowanie techniczne) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 10) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 27 0 R >>
+endobj
+27 0 obj
+<< /Length 1296 >>
+stream
+q 0.25 0.25 0.25 RG 0.8 w 56 794 m 539 794 l S Q
+BT 0 0 0 rg /F2 9 Tf 56 804 Td (System zarzadzania organizacja wydarzen) Tj ET
+BT 0 0 0 rg /F1 9.5 Tf 56 770 Td (Najwazniejsze elementy kodu:) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 751 Td (- Event - struktura wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 738 Td (- Participant - struktura uczestnika,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 725 Td (- Task - struktura zadania,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 712 Td (- BudgetItem - struktura pozycji budzetowej,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 699 Td (- saveEvents - zapis danych do Markdown,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 686 Td (- loadEvents - odczyt danych z Markdown,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 673 Td (- addEvent - dodawanie wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 660 Td (- editEvent - edycja wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 647 Td (- deleteEvent - usuwanie wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 634 Td (- eventWorkspace - panel konkretnego wydarzenia,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 621 Td (- resetEvents - reset listy wydarzen,) Tj ET
+BT 0 0 0 rg /F1 9 Tf 72 608 Td (- readDate - walidacja daty wydarzenia.) Tj ET
+q 0.75 0.75 0.75 RG 0.8 w 56 50 m 539 50 l S Q
+BT 0.35 0.35 0.35 rg /F1 8 Tf 56 38 Td (Dokumentacja programu) Tj ET
+BT 0.35 0.35 0.35 rg /F1 8 Tf 485 38 Td (Strona 11) Tj ET
+endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000185 00000 n 
+0000000255 00000 n 
+0000000330 00000 n 
+0000000398 00000 n 
+0000000544 00000 n 
+0000001286 00000 n 
+0000001432 00000 n 
+0000004871 00000 n 
+0000005019 00000 n 
+0000008740 00000 n 
+0000008888 00000 n 
+0000012740 00000 n 
+0000012888 00000 n 
+0000016902 00000 n 
+0000017050 00000 n 
+0000020864 00000 n 
+0000021012 00000 n 
+0000024969 00000 n 
+0000025117 00000 n 
+0000029120 00000 n 
+0000029268 00000 n 
+0000033034 00000 n 
+0000033182 00000 n 
+0000036734 00000 n 
+0000036882 00000 n 
+trailer
+<< /Size 28 /Root 1 0 R >>
+startxref
+38231
+%%EOF
